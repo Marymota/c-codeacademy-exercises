@@ -11,4 +11,4 @@ Write a C++ program called currency.cpp that prompts the user for the amount of 
 Write a rock_paper_scissors.cpp program
 
 ### Text Adventure
-Write a text "choose your own adveture" program 
+Write a text "choose your own adventure" program 
